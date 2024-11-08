@@ -1,6 +1,6 @@
 # NewProject
 
-An incredible project to jumpstart your GitHub repository!
+An incredible massive ball to jumpstart your GitHub repository!
 
 ## About The Project
 
